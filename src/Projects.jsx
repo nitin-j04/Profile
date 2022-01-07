@@ -14,7 +14,8 @@ const Projects = () => {
         display:'flex',
         flexDirection:'row',
         // border:'2px solid black',
-        width:'100%',
+        padding:'20dp',
+        width:'90%',
         flexWrap:'wrap',
         justifyContent: 'center',
         alignItems: 'center',
@@ -29,7 +30,7 @@ const Projects = () => {
 
     return (
         <>
-        
+        <div style={{width:'100%',display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center'}}>
         <div className="projects" style={styles}>
            
                 <Proj link="https://my-meal-google.herokuapp.com/"
@@ -40,7 +41,7 @@ const Projects = () => {
                     {/* <iframe src="https://my-meal-google.herokuapp.com/" />       */}
                
                 </Proj>
-                <Proj link="https://nitin-j04.github.io/profile"
+                <Proj link="https://nitin-j04.github.io/Profile"
                       title="Profile"
                       date="December 2021" 
                       tech="Techstack used:(Reactjs)"
@@ -58,6 +59,7 @@ const Projects = () => {
                 />  
 
                      
+            </div>
             </div>
         </>
     );

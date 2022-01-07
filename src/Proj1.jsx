@@ -36,14 +36,15 @@ const Proj1 = (props) => {
     };
     const [state, setState] = useState(false);
     const style1 = {
-        transform: "scale3d(1.05, 1.05, 1)"
+        maxWidth:400
     };
     return (
         <Card 
-            onMouseOver={() => setState( true)}
-            onMouseOut={() => setState(false)}
+            // onMouseOver={() => setState( true)}
+            // onMouseOut={() => setState(false)}
 
-            sx={state ? style1 :{ maxWidth: 345, margin: '2rem' }}
+            sx={state ? style1 : {
+                maxWidth: 354, margin: '2rem'}}
           >
             <a href="#" target="_blank">
                 <CardHeader

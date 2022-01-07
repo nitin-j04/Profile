@@ -37,10 +37,10 @@ const Header = () =>{
 
             <div className="header">
                 <div className="navbar">
-                    <NavLink  to="/" className="nav_logo">Home</NavLink>
+                    <NavLink  to="/Profile" className="nav_logo">Home</NavLink>
                     <ul className="nav_menu">
                         <li className="nav_item">
-                            <NavLink exact activeclassname="active" to="/" className="nav_link">About</NavLink>
+                            <NavLink exact activeclassname="active" to="/Profile" className="nav_link">About</NavLink>
                         </li>
                         <li className="nav_item">
                             <NavLink activeclassname="active" to="/contact" className="nav_link">Contact</NavLink>
@@ -62,7 +62,7 @@ const Header = () =>{
 
             <Routes>
 
-                <Route exact path='/' element={<About />} />
+                <Route exact path='/Profile' element={<About />} />
                 <Route path='/contact' element={<Contact />} />
                 <Route path='/projects' element={<Projects />} />
 
