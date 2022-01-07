@@ -1,6 +1,7 @@
 {
-  "name": "personal",
-  "homepage": "https://nitin-j04.github.io/Profile",
+ 
+  "homepage": "https://nitin-j04.github.io/",
+  "name": "Profile",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
