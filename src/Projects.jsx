@@ -40,7 +40,7 @@ const Projects = () => {
                     {/* <iframe src="https://my-meal-google.herokuapp.com/" />       */}
                
                 </Proj>
-                <Proj link="http://localhost:3000"
+                <Proj link="https://nitin-j04.github.io/profile"
                       title="Profile"
                       date="December 2021" 
                       tech="Techstack used:(Reactjs)"
