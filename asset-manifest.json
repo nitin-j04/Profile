@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.35fd5859.chunk.css",
+    "main.js": "/profile/static/js/main.c68cf657.chunk.js",
+    "main.js.map": "/profile/static/js/main.c68cf657.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.08f26231.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.08f26231.js.map",
+    "static/js/2.c445cdcf.chunk.js": "/profile/static/js/2.c445cdcf.chunk.js",
+    "static/js/2.c445cdcf.chunk.js.map": "/profile/static/js/2.c445cdcf.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/main.35fd5859.chunk.css.map": "/profile/static/css/main.35fd5859.chunk.css.map",
+    "static/js/2.c445cdcf.chunk.js.LICENSE.txt": "/profile/static/js/2.c445cdcf.chunk.js.LICENSE.txt",
+    "static/media/CryptoAlert1.9a80c966.jpg": "/profile/static/media/CryptoAlert1.9a80c966.jpg",
+    "static/media/CryptoAlert2.f4298eef.jpg": "/profile/static/media/CryptoAlert2.f4298eef.jpg",
+    "static/media/CryptoAlert3.29eaf056.jpg": "/profile/static/media/CryptoAlert3.29eaf056.jpg",
+    "static/media/contact.25b6394d.jpg": "/profile/static/media/contact.25b6394d.jpg",
+    "static/media/laptop.c543ea02.jpg": "/profile/static/media/laptop.c543ea02.jpg",
+    "static/media/profile.fb3b490c.jpg": "/profile/static/media/profile.fb3b490c.jpg",
+    "static/media/tracker1.12cb74ab.jpg": "/profile/static/media/tracker1.12cb74ab.jpg",
+    "static/media/tracker2.3fb6b6e5.jpg": "/profile/static/media/tracker2.3fb6b6e5.jpg",
+    "static/media/tracker3.e3d5378e.jpg": "/profile/static/media/tracker3.e3d5378e.jpg",
+    "static/media/tracker4.f4c640ac.jpg": "/profile/static/media/tracker4.f4c640ac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f26231.js",
+    "static/js/2.c445cdcf.chunk.js",
+    "static/css/main.35fd5859.chunk.css",
+    "static/js/main.c68cf657.chunk.js"
+  ]
+}
