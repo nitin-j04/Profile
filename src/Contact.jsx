@@ -56,10 +56,13 @@ const Contact = () => {
             // TODO - send mail
 
 
-            const serviceId = process.env.production.REACT_APP_SERVICE_ID;
-            const templateId = process.env.production.REACT_APP_TEMPLATE_ID;
-            const userId = process.env.production.REACT_APP_USER_ID;
+            // const serviceId = process.env.production.REACT_APP_SERVICE_ID;
+            // const templateId = process.env.production.REACT_APP_TEMPLATE_ID;
+            // const userId = process.env.production.REACT_APP_USER_ID;
            
+            const serviceId = "service_m3nqksp";
+            const templateId = "template_k7u0a3w";
+            const userId = "user_Fz3i3SlNaV1wEBVocvcYa";
             const templateParams = {
                 name,
                 email,
